@@ -1,0 +1,23 @@
+* {
+  color: purple;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+input,
+button {
+  border: solid 1px purple;
+  background-color: pink;
+  border-radius: 5px;
+  width: 200px;
+  margin: 10px;
+  padding: 5px;
+}
+
+button {
+  margin-left: 47px;
+  margin-top: 0;
+  width: 70px;
+}
+
+button:active {
+  background-color: rgb(228, 154, 166);
+}
